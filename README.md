@@ -2,19 +2,17 @@
 Este projeto permite a importação automática de múltiplos hosts no Zabbix através de uma planilha Excel, utilizando a API do Zabbix. 
 Ideal para grandes implantações ou quando é necessário adicionar muitos hosts de forma rápida e eficiente.
 
-
 ### Funcionalidades
 - Importação em massa de hosts no Zabbix.
 - Suporte a hosts SNMP, com variáveis configuráveis.
 - Facilidade de uso com uma planilha Excel para entrada de dados.
 
-
 ### Atenção: 
 - Para utilizar o script, edite as variáveis **`ZABBIX_URL`** e **`AUTH_TOKEN`** no arquivo `IMPORT_HOSTS_SNMP.py` com as informações do seu servidor Zabbix e seu token de autenticação.
-
+```python
 ZABBIX_URL = "http://seu_zabbix_server/api_jsonrpc.php"
 AUTH_TOKEN = "seu_token_de_autenticacao"
-
+```
 
 ### Desenvolvido por: Service TIC Soluções Tecnológicas
 - **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
