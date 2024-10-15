@@ -27,4 +27,5 @@ AUTH_TOKEN = "seu_token_de_autenticacao"
 - **WhatsApp**: [Canal WhatsApp](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N)
 
 
-![qr](https://github.com/user-attachments/assets/8275882c-9d14-46ed-a3c9-2492efce8cbb)
+[![QR Code](https://github.com/user-attachments/assets/8275882c-9d14-46ed-a3c9-2492efce8cbb)](https://servicetic.com.br/links/)
+
