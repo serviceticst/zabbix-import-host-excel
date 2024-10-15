@@ -6,6 +6,9 @@ Ideal para grandes implantações ou quando é necessário adicionar muitos host
 Para assistir ao tutorial completo:
 [Clique aqui](https://youtu.be/xFS32PehOtk)
 
+### Download
+[Clique aqui](https://raw.githubusercontent.com/serviceticst/zabbix-import-host-excel/refs/heads/main/servicetic_import_host_zabbix_excel.zip) 
+
 ### Funcionalidades
 - Importação em massa de hosts no Zabbix.
 - Suporte a hosts SNMP, com variáveis configuráveis.
