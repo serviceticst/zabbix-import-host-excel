@@ -17,11 +17,11 @@ AUTH_TOKEN = "seu_token_de_autenticacao"
 ### Desenvolvido por: Service TIC Soluções Tecnológicas
 - **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
 - **Site**: [www.servicetic.com.br](http://www.servicetic.com.br)
-- **LinkedIn**: [Service TIC no LinkedIn](https://www.linkedin.com/company/serviceticst)
+- **LinkedIn**: [@serviceticst](https://www.linkedin.com/company/serviceticst)
 - **Instagram**: [@serviceticst](https://www.instagram.com/serviceticst)
-- **Facebook**: [Service TIC no Facebook](https://www.facebook.com/serviceticst)
+- **Facebook**: [@serviceticst](https://www.facebook.com/serviceticst)
 - **Twitter**: [@serviceticst](https://twitter.com/serviceticst)
-- **YouTube**: [Canal YouTube](https://youtube.com/c/serviceticst)
+- **YouTube**: [@serviceticst](https://youtube.com/c/serviceticst)
 - **WhatsApp**: [Canal WhatsApp](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N)
 
 
