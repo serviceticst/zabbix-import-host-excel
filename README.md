@@ -15,14 +15,15 @@ AUTH_TOKEN = "seu_token_de_autenticacao"
 ```
 
 ### Desenvolvido por: Service TIC Soluções Tecnológicas
-- **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
-- **Site**: [![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](http://www.servicetic.com.br)
-- **LinkedIn**: [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png)](https://www.linkedin.com/company/serviceticst)
-- **Instagram**: [![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://www.instagram.com/serviceticst)
-- **Facebook**: [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook-new.png)](https://www.facebook.com/serviceticst)
-- **Twitter**: [![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/serviceticst)
-- **YouTube**: [![YouTube](https://img.icons8.com/ios-filled/50/000000/youtube-squared.png)](https://youtube.com/c/serviceticst)
-- **WhatsApp**: [![WhatsApp](https://img.icons8.com/ios-filled/50/000000/whatsapp.png)](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N)
+- [![E-mail](https://img.icons8.com/ios-filled/16/ffffff/mail.png)](mailto:contato@servicetic.com.br) **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
+- [![Website](https://img.icons8.com/ios-filled/16/ffffff/domain.png)](http://www.servicetic.com.br) **Site**: [www.servicetic.com.br](http://www.servicetic.com.br)
+- [![LinkedIn](https://img.icons8.com/ios-filled/16/ffffff/linkedin-circled.png)](https://www.linkedin.com/company/serviceticst) **LinkedIn**: [@serviceticst](https://www.linkedin.com/company/serviceticst)
+- [![Instagram](https://img.icons8.com/ios-filled/16/ffffff/instagram-new.png)](https://www.instagram.com/serviceticst) **Instagram**: [@serviceticst](https://www.instagram.com/serviceticst)
+- [![Facebook](https://img.icons8.com/ios-filled/16/ffffff/facebook-new.png)](https://www.facebook.com/serviceticst) **Facebook**: [@serviceticst](https://www.facebook.com/serviceticst)
+- [![X](https://img.icons8.com/ios-filled/16/ffffff/x.png)](https://x.com/serviceticst) **Twitter**: [@serviceticst](https://x.com/serviceticst)
+- [![YouTube](https://img.icons8.com/ios-filled/16/ffffff/youtube-squared.png)](https://youtube.com/c/serviceticst) **YouTube**: [@serviceticst](https://youtube.com/c/serviceticst)
+- [![WhatsApp](https://img.icons8.com/ios-filled/16/ffffff/whatsapp.png)](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N) **WhatsApp**: [Canal WhatsApp](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N)
+
 
 
 [![QR Code](https://github.com/user-attachments/assets/8275882c-9d14-46ed-a3c9-2492efce8cbb)](https://servicetic.com.br/links/)
