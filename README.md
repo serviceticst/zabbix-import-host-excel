@@ -68,7 +68,7 @@ AUTH_TOKEN = "your_auth_token"
 
 ##
 
-[![QR Code](https://github.com/user-attachments/assets/8275882c-9d14-46ed-a3c9-2492efce8cbb)](https://servicetic.com.br/links/)
+[![image](https://github.com/user-attachments/assets/17192a13-f0b6-4531-add0-99c7f46c24b0)](https://servicetic.com.br/links/)
 
 
 
